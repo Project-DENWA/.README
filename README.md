@@ -5,6 +5,5 @@ This repository contains the source code and resources needed to develop and run
 We develop Denwa Freelance Exchange, a platform that helps users find jobs and freelancers. We build a powerful user interface, process forms, interact with the server, manage application state, and create a clean, organized, and maintainable code architecture
 
 # Contribute to the project
-## If you want to contribute to this project, you can fork the repository and create a branch for your changes. Once you have made your changes, you can submit a Pull Request so we can review them and incorporate them into the main project branch.
-![image](https://github.com/Project-DENWA/.readme/assets/106549605/a54c8ad3-c8e3-44f6-a007-13aaa802b0bc)
+ If you want to contribute to this project, you can fork the repository and create a branch for your changes. Once you have made your changes, you can submit a Pull Request so we can review them and incorporate them into the main project branch.
 
